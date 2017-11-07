@@ -1,5 +1,5 @@
 # EtherealTipJar
-Tip jar for Ethereum
+Tip jar for Ethereum and all ERC20 Tokens
 
 My Deployment:
-https://etherscan.io/address/0x678042580304a7f32dd03b027d90083818dc16a1#code
+https://etherscan.io/address/0x0a7270288d8a6987baddb0933f1bb2135ca02e88
