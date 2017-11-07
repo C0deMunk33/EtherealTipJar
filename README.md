@@ -2,4 +2,6 @@
 Tip jar for Ethereum and all ERC20 Tokens
 
 My Deployment:
-https://etherscan.io/address/0x0a7270288d8a6987baddb0933f1bb2135ca02e88
+0xab0b54efe35457d92cfcddcf4d2cd6f0cb788036
+
+https://etherscan.io/address/0xab0b54efe35457d92cfcddcf4d2cd6f0cb788036
